@@ -1,4 +1,4 @@
-import 'package:connectivity_wrapper/utils/string_constant.dart';
+import 'package:easy_internet_checker/utils/string_constant.dart';
 import 'package:flutter/material.dart';
 
 class OfflineWidget extends StatelessWidget {

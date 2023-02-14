@@ -1,8 +1,8 @@
-library connectivity_wrapper;
+library easy_internet_checker;
 
-import 'package:connectivity_wrapper/enum/connectivity_status.dart';
-import 'package:connectivity_wrapper/service/connectivity_service.dart';
-import 'package:connectivity_wrapper/widget/offline_widget.dart';
+import 'package:easy_internet_checker/enum/connectivity_status.dart';
+import 'package:easy_internet_checker/service/connectivity_service.dart';
+import 'package:easy_internet_checker/widget/offline_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

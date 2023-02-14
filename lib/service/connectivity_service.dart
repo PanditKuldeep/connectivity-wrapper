@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:connectivity_wrapper/enum/connectivity_status.dart';
+import 'package:easy_internet_checker/enum/connectivity_status.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
