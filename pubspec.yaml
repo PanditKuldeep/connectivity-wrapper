@@ -1,7 +1,10 @@
+# Created By Kuldeep Pandit
+# 07/02/2023
+
 name: connectivity_wrapper
-description: A new Flutter package project.
+description: This project help with network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection.
 version: 0.0.1
-homepage:
+publish_to: 'https://github.com/PanditKuldeep/connectivity-wrapper'
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
