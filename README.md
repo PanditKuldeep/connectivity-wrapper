@@ -1,4 +1,6 @@
-This package help with network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection.
+This package help with network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection as shown below.
+
+<img src="https://github.com/PanditKuldeep/connectivity-wrapper/blob/main/assets/img.png" height=400/>
 
 ## Features
 
