@@ -4,7 +4,10 @@
 name: connectivity_wrapper
 description: This project help with network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection.
 version: 0.0.1
-publish_to: 'https://github.com/PanditKuldeep/connectivity-wrapper'
+homepage:  https://github.com/PanditKuldeep/connectivity-wrapper
+repository: https://github.com/PanditKuldeep/connectivity-wrapper
+documentation: https://github.com/PanditKuldeep/connectivity-wrapper/blob/main/README.md
+
 
 environment:
   sdk: '>=2.18.2 <3.0.0'

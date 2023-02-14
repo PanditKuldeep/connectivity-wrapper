@@ -52,7 +52,7 @@ class OfflineWidget extends StatelessWidget {
               offlineMessage ?? StringConst.noInternetConn,
               textAlign: offlineWidgetTextAlign ?? TextAlign.center,
               style: offlineWidgetMessageStyle ??
-                  Theme.of(context).textTheme.subtitle2,
+                  Theme.of(context).textTheme.titleSmall,
             ),
           ),
         ),

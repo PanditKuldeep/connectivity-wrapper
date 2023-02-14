@@ -1,4 +1,4 @@
-import 'package:connectivity_wrapper/connectivity_wrapper.dart';
+import 'package:connectivity_wrapper/easy_internet_checker.dart';
 import 'package:flutter/material.dart';
 
 void main() {

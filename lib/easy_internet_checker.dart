@@ -63,16 +63,7 @@ class ConnectivityWrapper extends StatelessWidget {
       this.offlineWidgetTextAlign,
       this.offlineWidgetHeight,
       this.offlineWidgetTextPadding,
-      this.containerAlignment
-
-      //this.offlineWidget,
-      //this.color,
-      //this.decoration,
-      //this.message,
-      //this.messageStyle,
-      //this.height,
-      //this.alignment,
-      })
+      this.containerAlignment})
       : super(key: key);
 
   @override
