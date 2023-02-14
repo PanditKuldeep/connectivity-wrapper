@@ -30,6 +30,6 @@ ConnectivityWrapper(
             child: const Text('submit'),
           ),
         ),
-      ),
+      );
 ```
 
